@@ -1,3 +1,6 @@
 print('online feature1')
 print('online feature2')
 print('online feature3')
+Print('local feature 4')
+Print('local feature 5')
+Print('local feature 6')
